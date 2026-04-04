@@ -62,4 +62,4 @@ One-time purchase. Full source code + future updates.
 
 ---
 
-*Built by [UpGrowth](https://www.jumpsaas.com) · New Zealand*
+*Built by [betterchris](https://www.jumpsaas.com) · New Zealand*
