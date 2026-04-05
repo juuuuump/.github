@@ -1,8 +1,8 @@
-# JumpSaaS - Nextjs Saas Template/Starter
+# JumpSaaS
 
 **Launch your SaaS this weekend.**
 
-Auth, billing, and i18n already wired. Deploy to Cloudflare, Vercel, or any container host — your choice, zero lock-in.
+Best Nextjs Saas Template, Auth, billing, and i18n already wired. Deploy to Cloudflare, Vercel, or any container host — your choice, zero lock-in.
 
 → **[jumpsaas.com](https://www.jumpsaas.com)**
 
