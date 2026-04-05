@@ -1,6 +1,4 @@
-# JumpSaaS
-
-Production-ready Next.js 15 SaaS template. Auth, billing, i18n, email, and more — ship your SaaS this weekend.
+# JumpSaaS - Nextjs Saas Template/Starter
 
 **Launch your SaaS this weekend.**
 
