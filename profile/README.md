@@ -1,5 +1,7 @@
 # JumpSaaS
 
+Production-ready Next.js 15 SaaS template. Auth, billing, i18n, email, and more — ship your SaaS this weekend.
+
 **Launch your SaaS this weekend.**
 
 Auth, billing, and i18n already wired. Deploy to Cloudflare, Vercel, or any container host — your choice, zero lock-in.
