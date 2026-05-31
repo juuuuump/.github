@@ -31,13 +31,13 @@ That early momentum disappears fast when the foundation is still missing — aut
 | **i18n** | Localized routing, translation files, multi-language structure |
 | **Admin** | Admin area, user management, account controls |
 | **Deployment** | Cloudflare, Vercel, Docker, container-host flexibility |
-| **DX** | Next.js 15, React 19, TypeScript, production-ready structure |
+| **DX** | TanStack, Next.js, React 19, TypeScript, production-ready structure |
 
 ---
 
 ## Stack
 
-Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Better Auth · Stripe · Drizzle ORM · PostgreSQL · next-intl · Cloudflare
+TanStack · Next.js · React 19 · TypeScript · Tailwind CSS v4 · Better Auth · Stripe · Drizzle ORM · PostgreSQL · Cloudflare
 
 ---
 
